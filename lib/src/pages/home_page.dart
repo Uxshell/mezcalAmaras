@@ -3,7 +3,7 @@ import 'package:mezcalamaras/src/bloc/provider.dart';
 //import 'package:formvalidation/src/models/producto_model.dart';
 //import 'package:formvalidation/src/providers/productos_provider.dart';
 import 'package:mezcalamaras/src/models/contacto_model.dart';
-import 'package:mezcalamaras/src/providers/contactos_provider.dart';
+import 'package:mezcalamaras/src/providers/contacto_provider.dart';
 class HomePage extends StatelessWidget {
   
   final contactosProvider = new ContactosProvider();
